@@ -1,0 +1,80 @@
+// Programación Genérica y Eventos //
+// Tomas Molina y Edgar Karpowicz //
+// Explicaciones de los Programas //
+
+* Consigna:
+	Envíe sus programas funcionales junto con una breve explicación de cómo cumplen con los requisitos especificados.
+
+* Enunciado 1:
+	Se crearon los Archivos .h y .cpp de: Persona y Empleado, este último tiene como Clase Base a Persona.
+	Cada uno de estos Archivos .h y .cpp contienen los Atributos y Métodos solicitados, siendo Salario, Cargo, etc.
+	Como programa, para comprobar la implementación correcta de estas Clases, se creó un simple Menú Linear, de nombre Carga (Carga.h y Carga.cpp) en el cual se toman los 		
+	Datos del Usuario y se crea una Instancia de la Clase Empleado con los Datos obtenidos. 
+	Posteriormente, los Datos guardados en la Instancia son mostrados en Pantalla haciendo uso de los Métodos get implementados.
+
+* Enunciado 2:
+	Se crearon los Archivos .h y .cpp de: Vehículo, Coche, y Moto, estas dos últimas (Coche y Moto) tienen como Clase Base a Vehículo.
+	Cada uno de estos Archivos .h y .cpp contienen los Atributos y Métodos solicitados, siendo Número de Puertas, Cilindrada, etc. 
+	Para comprobar la implementación correcta de las Clases, se adaptó el Código del Menú Linear Carga (Carga.h y Carga.cpp) del Enunciado 1 para este caso.
+	Se toman los Datos del tipo de Vehículo que se quiere ingresar (Moto o Coche), se crea una instancia de cuál sea el que se esté ingresando, y posteriormente los Datos 		
+	son mostrados en Pantalla. Nuevamente se hace uso de los Métodos get y set implementados para poder interactuar con las Instancias de las Clases creadas.
+
+* Enunciado 3:
+	Se crearon los Archivos .h y .cpp de: FiguraGeometrica, Triángulo, Cuadrado, y Círculo. Triángulo, Cuadrado, y Círculo son todas Clases Hijas de FiguraGeometrica.
+	Cada uno de estos Archivos .h y .cpp contienen los Atributos y Métodos solicitados, más específicamente, se implementaron los Métodos para calcular el Área y Perímetro 	
+	según sea la Figura Geométrica.
+	Para comprobar la implementación de las Clases, se creó un Clase llamada Carga (Carga.h y Carga.cpp) el cual permite al Programa actuar como una Calculadora de Figuras.
+	Al permitir la selección y carga de datos de ya sea un Círculo, Cuadrado, o Triangulo, y posteriormente haciendo display del Área y Perímetro de cada una de estas.
+
+* Enunciado 4:
+	Se crearon los Archivos .h y .cpp de: Animal, Perro, y Gato. Los dos últimos heredan de Animal.
+	Cada uno de estos Archivos .h y .cpp contienen los Atributos y Métodos solicitados, es decir Ladrar, Maullar, entre otros.
+	Para comprobar la implementación de las Clases, nuevamente, se creó una Clase Carga (Carga.h y Carga.cpp), la cual simplemente permite crear Instancias de las Clases, y
+	hacer display de los Métodos de las Clases de una Manera Estática, sin mucha intervención del Usuario.
+
+* Enunciado 5:
+	Se crearon los Archivos .h y .cpp de: Estudiante y Grupo. Grupo contiene un Arreglo de Objetos Estudiante.
+	Cada uno de los Archivos .h y .cpp contienen los Atributos y Métodos solicitados, particularmente el método para calcular el promedio de notas del Grupo.
+	En el programa creado, simplemente se ingresan datos de 3 Estudiantes los cuales son Instanciados y almacenados en una Instancia de Grupo.
+	Posteriormente, se hace display al Promedio General del Grupo a través de los Métodos implementados.
+
+* Enunciado 6:
+	Se crearon los Archivos .h y .cpp de: CuentaBancaria, CuentaCorriente, y CuentaAhorro. Las dos últimas heredan de CuentaBancaria.
+	Cada uno de los Archivos .h y .cpp contienen los Atributos y Métodos solicitados, es decir, existen métodos para cobrar comisiones y/o calcular intereses.
+	El programa creado es completamente estático. En el mismo, se crean dos instancias de CuentaCorriente y CuentaAhorro y se hace display de los Datos de las mismas.
+	La utiliza una Clase llamada Carga (Carga.h y Carga.cpp) para actuar como Menú agrupador de las dos Clases.
+
+* Enunciado 7:
+	Se crearon los Archivos .h y .cpp de: Animal y Veterinario, Veterinario incluye a Animal.
+	Cada uno de los Archivos .h y .cpp contienen los Atributos y Métodos solicitados, de importancia es el Método que permite al Veterinario examinar un Objeto Animal.
+	El programa creado es completamente estático. En el mismo, se crea una instancia de un Animal con los Datos apropiados, y posteriormente se le examina con una Instancia 	
+	de Veterinario. 
+	Relativamente sencillo, pero nos sirve para ver si las Clases creadas funcionan de manera correcta.
+	Como los anteriores programas, la Clase Carga agrupa a las Clases funcionando.
+
+* Enunciado 8:
+	Se crearon los Archivos .h y .cpp de: Película y Alquiler. Alquiler posee un objeto Película.
+	Cada uno de los Archivos .h y .cpp contienen los Atributos y Métodos solicitados, de importancia es el Método que permite calcular el costo del Alquiler según los Datos 
+	cargados, siendo la Duración y otros factores.
+	Este programa también es estático. En el mismo, se crea una Instancia de una Película, y posteriormente se la almacena en una Instancia de la Clase Alquiler.
+	Posteriormente, se le hace display a los Datos en un Menú del cual se encarga la Clase Carga.
+
+* Enunciado 9:
+	Se crearon los Archivos .h y .cpp de: Persona y Trabajador.
+	Los Atributos y Métodos solicitados se encuentran implementados, los más importantes a mencionar son el de calcular el salario según el Cargo y otras Variables.
+	El programa implementado en este caso permite al Usuario introducir los Datos de una Instancia de un Trabajador y hacer display a los Datos obtenidos.
+	Incluyendo al Salario que esta instancia tendría. Este salario se obtiene a través del método de calcular Salario implementado.
+	La Clase Carga nuevamente se encarga de actuar como un Menú de carga de datos.
+
+* Enunciado 10:
+	Se crearon los Archivos .h y .cpp de: Producto y Carrito de Compras. La última contiene un arreglo de objetos Producto.
+	Los Atributos y Métodos que se pidieron están implementados. Uno de los más importantes es aquel que permite calcular el total de la Compra.
+	En el programa, gracias a la Implementación de la Clase Carga, se pueden cargar 3 Productos (que se instancian) y se guardan en una Instancia de Carrito de Compras.
+	Posteriormente, se muestra el Costo Total de la Compra.
+
+* Programa Combinado:
+	Haciéndose uso de los Enunciados 4, 6, 7, y 10, se creó un Juego de Nombre la Veterinaria.
+	Este hace uso de todas las Funciones, Métodos, Atributos, y Clases implementadas en los ya mencionados Enunciados.
+	Logra unificar a los mismos a través de 3 nuevas Clases creadas llamadas: Menu (Menu.h y Menu.cpp), Juego (Juego.h y Juego.cpp), y Tienda (Tienda.h y Tienda.cpp)
+
+	
