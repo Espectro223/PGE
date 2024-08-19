@@ -1,0 +1,11 @@
+D:\PC\Descargas\Ejercicio PGE\Calculadora\bin\Debug\Calculadora.exe.config
+D:\PC\Descargas\Ejercicio PGE\Calculadora\bin\Debug\Calculadora.exe
+D:\PC\Descargas\Ejercicio PGE\Calculadora\bin\Debug\Calculadora.pdb
+D:\PC\Descargas\Ejercicio PGE\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\PC\Descargas\Ejercicio PGE\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+D:\PC\Descargas\Ejercicio PGE\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\PC\Descargas\Ejercicio PGE\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\PC\Descargas\Ejercicio PGE\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\PC\Descargas\Ejercicio PGE\Calculadora\obj\Debug\Calculadora.exe
+D:\PC\Descargas\Ejercicio PGE\Calculadora\obj\Debug\Calculadora.pdb
+D:\PC\Descargas\Ejercicio PGE\Calculadora\obj\Debug\Calculadora.Calculadora.resources
