@@ -1,0 +1,4 @@
+D:\PC\Descargas\Ejercicio PGE\GitManager\GitManager\x64\Debug\GitManager.vcxproj.AssemblyReference.cache
+D:\PC\Descargas\Ejercicio PGE\GitManager\GitManager\x64\Debug\GitManager.MainForm.resources
+D:\PC\Descargas\Ejercicio PGE\GitManager\GitManager\x64\Debug\GitManager.vcxproj.GenerateResource.cache
+D:\PC\Descargas\Ejercicio PGE\GitManager\GitManager\x64\Debug\GitManager.StartScreen.resources
