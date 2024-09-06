@@ -1,0 +1,11 @@
+D:\Usuario Lab\Descargas\Veterinaria WindowsForm\bin\Debug\Veterinaria WindowsForm.exe.config
+D:\Usuario Lab\Descargas\Veterinaria WindowsForm\bin\Debug\Veterinaria WindowsForm.exe
+D:\Usuario Lab\Descargas\Veterinaria WindowsForm\bin\Debug\Veterinaria WindowsForm.pdb
+D:\Usuario Lab\Descargas\Veterinaria WindowsForm\obj\Debug\Veterinaria WindowsForm.csproj.AssemblyReference.cache
+D:\Usuario Lab\Descargas\Veterinaria WindowsForm\obj\Debug\VeterinariaSimulador.FormLogin.resources
+D:\Usuario Lab\Descargas\Veterinaria WindowsForm\obj\Debug\VeterinariaSimulador.FormMainMenu.resources
+D:\Usuario Lab\Descargas\Veterinaria WindowsForm\obj\Debug\Veterinaria_WindowsForm.Properties.Resources.resources
+D:\Usuario Lab\Descargas\Veterinaria WindowsForm\obj\Debug\Veterinaria WindowsForm.csproj.GenerateResource.cache
+D:\Usuario Lab\Descargas\Veterinaria WindowsForm\obj\Debug\Veterinaria WindowsForm.csproj.CoreCompileInputs.cache
+D:\Usuario Lab\Descargas\Veterinaria WindowsForm\obj\Debug\Veterinaria WindowsForm.exe
+D:\Usuario Lab\Descargas\Veterinaria WindowsForm\obj\Debug\Veterinaria WindowsForm.pdb
