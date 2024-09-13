@@ -1,0 +1,12 @@
+D:\PC\Descargas\Ejercicio PGE\GitManager\GitManager\x64\Debug\GitManager.vcxproj.AssemblyReference.cache
+D:\PC\Descargas\Ejercicio PGE\GitManager\GitManager\x64\Debug\GitManager.MainForm.resources
+D:\PC\Descargas\Ejercicio PGE\GitManager\GitManager\x64\Debug\GitManager.vcxproj.GenerateResource.cache
+D:\PC\Descargas\Ejercicio PGE\GitManager\GitManager\x64\Debug\GitManager.StartScreen.resources
+C:\Users\edgar\Downloads\GitManager\GitManager\x64\Debug\GitManager.vcxproj.AssemblyReference.cache
+C:\Users\edgar\Downloads\GitManager\GitManager\x64\Debug\GitManager.MainForm.resources
+C:\Users\edgar\Downloads\GitManager\GitManager\x64\Debug\GitManager.StartScreen.resources
+C:\Users\edgar\Downloads\GitManager\GitManager\x64\Debug\GitManager.vcxproj.GenerateResource.cache
+E:\2024\Programación Generica y Eventos\Parcial 1\GitManager\GitManager\x64\Debug\GitManager.vcxproj.AssemblyReference.cache
+E:\2024\Programación Generica y Eventos\Parcial 1\GitManager\GitManager\x64\Debug\GitManager.MainForm.resources
+E:\2024\Programación Generica y Eventos\Parcial 1\GitManager\GitManager\x64\Debug\GitManager.StartScreen.resources
+E:\2024\Programación Generica y Eventos\Parcial 1\GitManager\GitManager\x64\Debug\GitManager.vcxproj.GenerateResource.cache
