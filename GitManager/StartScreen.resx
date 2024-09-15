@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="txtConfigDetails.Text" xml:space="preserve">
+    <value>-&gt; Git Status:
+
+* Descripción: El comando git status se utiliza para mostrar el estado del árbol de trabajo en tu repositorio. Muestra las diferencias entre el directorio de trabajo y el área de preparación (staging area), así como los cambios que aún no han sido confirmados (committed).
+
+* Propósito: Este comando es útil para ver qué archivos han cambiado, cuáles están en el área de preparación, y cuáles no están bajo control de versiones.
+
+-&gt; Git Init:
+
+*Descripción: El comando git init se utiliza para crear un nuevo repositorio Git en el directorio actual. Este comando inicializa un nuevo repositorio de Git, creando un directorio .git que contiene todos los archivos de configuración necesarios.
+
+*Propósito: Es el primer paso para comenzar a utilizar Git en un proyecto. Se usa para convertir un proyecto existente en un repositorio Git o para crear un repositorio desde cero.
+
+-&gt; Git Add .:
+
+*Descripción: El comando git add . añade todos los archivos y cambios en el directorio actual al área de preparación (staging area). Utilizar el punto (.) después de git add indica que todos los archivos modificados o nuevos en el directorio deben ser incluidos.
+
+*Propósito: Prepara los cambios para ser confirmados en el siguiente commit. Es una manera rápida de agregar todos los cambios de una vez.
+
+-&gt; Configuración de Usuario y Email para Git:
+
+*Descripción: Configurar el nombre de usuario y el correo electrónico en Git es esencial para identificar a los autores de los commits. Los comandos git config --global user.name "Tu Nombre" y git config --global user.email "tu.email@example.com" se utilizan para establecer esta información.
+
+*Propósito: Estas configuraciones son necesarias para que Git pueda asociar los commits con un autor específico, lo cual es vital para el historial de cambios del proyecto.
+
+-&gt; Git Commit:
+
+*Descripción: El comando git commit -m "mensaje" guarda los cambios preparados en el repositorio con un mensaje descriptivo. Este mensaje debe explicar brevemente qué cambios se han realizado.
+
+*Propósito: git commit es un punto de control en el desarrollo. Guarda un snapshot de los cambios en el historial del repositorio, permitiendo regresar a este estado en el futuro si es necesario.
+
+-&gt; Git Remote Add Origin:
+
+*Descripción: El comando git remote add origin [URL] se utiliza para asociar el repositorio local con un repositorio remoto, como uno alojado en GitHub o GitLab. origin es el nombre predeterminado que se le da al repositorio remoto.
+
+*Propósito: Este comando establece la conexión con un repositorio remoto donde se pueden subir los cambios. Es un paso crucial para colaborar con otros desarrolladores o para mantener una copia de respaldo en la nube.
+
+-&gt; Git Push:
+
+*Descripción: El comando git push -u origin master envía los commits confirmados desde el repositorio local al remoto. La opción -u establece origin master como la rama predeterminada para futuros push.
+
+*Propósito: git push se utiliza para compartir los cambios realizados en el repositorio local con el repositorio remoto, permitiendo a otros colaboradores acceder a los cambios o mantener el repositorio remoto actualizado.
+
+-&gt; Git rm:
+
+* Descripción: Esta funcionalidad permite al usuario eliminar archivos, carpetas o submódulos del repositorio de Git. Si se selecciona un submódulo, el programa realiza la eliminación del índice de Git y borra los datos de .gitmodules. Posteriormente, se intenta eliminar la carpeta del sistema de archivos y hacer un commit para confirmar los cambios. En el caso de archivos o carpetas normales, se usa git rm para eliminarlos del repositorio y también se realiza un commit de confirmación.
+
+* Propósito: Facilitar la eliminación de archivos, carpetas o submódulos desde la interfaz del programa, asegurando que los cambios sean reflejados en Git correctamente.
+
+-&gt; Visualizar Historial: 
+
+* Descripción: Esta funcionalidad muestra el historial de commits del repositorio Git, permitiendo filtrar los resultados por autor o fecha. Utiliza el comando git log para obtener la lista de commits y presenta la información (hash del commit, mensaje, autor y fecha) en una tabla para una visualización clara.
+
+*Propósito: Proporcionar al usuario una herramienta fácil para consultar el historial de cambios en el repositorio, aplicando filtros específicos para facilitar la búsqueda de commits relevantes.
+
+-&gt; Git Clone:
+
+*Descripción: Esta funcionalidad permitirá al usuario clonar repositorios Git desde GitHub o cualquier otra fuente. Usará el comando git clone y pedirá al usuario la URL del repositorio, junto con la carpeta de destino. El repositorio se clonará en la ubicación especificada, permitiendo que el usuario trabaje con él localmente.
+
+*Propósito: Facilitar la obtención de una copia local de un repositorio remoto, permitiendo al usuario trabajar en proyectos directamente desde la interfaz del programa.</value>
+  </data>
+</root>
