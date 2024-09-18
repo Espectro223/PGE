@@ -1,0 +1,14 @@
+D:\Usuario Lab\Descargas\Juego de Adivinanzas\bin\Debug\Juego de Adivinanzas.exe.config
+D:\Usuario Lab\Descargas\Juego de Adivinanzas\bin\Debug\Juego de Adivinanzas.exe
+D:\Usuario Lab\Descargas\Juego de Adivinanzas\bin\Debug\Juego de Adivinanzas.pdb
+D:\Usuario Lab\Descargas\Juego de Adivinanzas\obj\Debug\Juego de Adivinanzas.csproj.AssemblyReference.cache
+D:\Usuario Lab\Descargas\Juego de Adivinanzas\obj\Debug\MainWindow.baml
+D:\Usuario Lab\Descargas\Juego de Adivinanzas\obj\Debug\MainWindow.g.cs
+D:\Usuario Lab\Descargas\Juego de Adivinanzas\obj\Debug\App.g.cs
+D:\Usuario Lab\Descargas\Juego de Adivinanzas\obj\Debug\Juego de Adivinanzas_MarkupCompile.cache
+D:\Usuario Lab\Descargas\Juego de Adivinanzas\obj\Debug\Juego de Adivinanzas.g.resources
+D:\Usuario Lab\Descargas\Juego de Adivinanzas\obj\Debug\Juego_de_Adivinanzas.Properties.Resources.resources
+D:\Usuario Lab\Descargas\Juego de Adivinanzas\obj\Debug\Juego de Adivinanzas.csproj.GenerateResource.cache
+D:\Usuario Lab\Descargas\Juego de Adivinanzas\obj\Debug\Juego de Adivinanzas.csproj.CoreCompileInputs.cache
+D:\Usuario Lab\Descargas\Juego de Adivinanzas\obj\Debug\Juego de Adivinanzas.exe
+D:\Usuario Lab\Descargas\Juego de Adivinanzas\obj\Debug\Juego de Adivinanzas.pdb
