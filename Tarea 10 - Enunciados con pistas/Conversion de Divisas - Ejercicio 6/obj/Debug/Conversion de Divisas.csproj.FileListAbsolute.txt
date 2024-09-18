@@ -1,0 +1,14 @@
+D:\Usuario Lab\Descargas\Conversion de Divisas\bin\Debug\Conversion de Divisas.exe.config
+D:\Usuario Lab\Descargas\Conversion de Divisas\bin\Debug\Conversion de Divisas.exe
+D:\Usuario Lab\Descargas\Conversion de Divisas\bin\Debug\Conversion de Divisas.pdb
+D:\Usuario Lab\Descargas\Conversion de Divisas\obj\Debug\Conversion de Divisas.csproj.AssemblyReference.cache
+D:\Usuario Lab\Descargas\Conversion de Divisas\obj\Debug\MainWindow.baml
+D:\Usuario Lab\Descargas\Conversion de Divisas\obj\Debug\MainWindow.g.cs
+D:\Usuario Lab\Descargas\Conversion de Divisas\obj\Debug\App.g.cs
+D:\Usuario Lab\Descargas\Conversion de Divisas\obj\Debug\Conversion de Divisas_MarkupCompile.cache
+D:\Usuario Lab\Descargas\Conversion de Divisas\obj\Debug\Conversion de Divisas.g.resources
+D:\Usuario Lab\Descargas\Conversion de Divisas\obj\Debug\Conversion_de_Divisas.Properties.Resources.resources
+D:\Usuario Lab\Descargas\Conversion de Divisas\obj\Debug\Conversion de Divisas.csproj.GenerateResource.cache
+D:\Usuario Lab\Descargas\Conversion de Divisas\obj\Debug\Conversion de Divisas.csproj.CoreCompileInputs.cache
+D:\Usuario Lab\Descargas\Conversion de Divisas\obj\Debug\Conversion de Divisas.exe
+D:\Usuario Lab\Descargas\Conversion de Divisas\obj\Debug\Conversion de Divisas.pdb
