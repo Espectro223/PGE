@@ -1,0 +1,16 @@
+D:\PC\Descargas\Ejercicio PGE\Restaurante - Ejercicio 11\bin\Debug\Restaurante - Ejercicio 11.exe.config
+D:\PC\Descargas\Ejercicio PGE\Restaurante - Ejercicio 11\bin\Debug\Restaurante - Ejercicio 11.exe
+D:\PC\Descargas\Ejercicio PGE\Restaurante - Ejercicio 11\bin\Debug\Restaurante - Ejercicio 11.pdb
+D:\PC\Descargas\Ejercicio PGE\Restaurante - Ejercicio 11\obj\Debug\Restaurante - Ejercicio 11.csproj.AssemblyReference.cache
+D:\PC\Descargas\Ejercicio PGE\Restaurante - Ejercicio 11\obj\Debug\MainWindow.baml
+D:\PC\Descargas\Ejercicio PGE\Restaurante - Ejercicio 11\obj\Debug\MainWindow.g.cs
+D:\PC\Descargas\Ejercicio PGE\Restaurante - Ejercicio 11\obj\Debug\App.g.cs
+D:\PC\Descargas\Ejercicio PGE\Restaurante - Ejercicio 11\obj\Debug\Restaurante - Ejercicio 11_MarkupCompile.cache
+D:\PC\Descargas\Ejercicio PGE\Restaurante - Ejercicio 11\obj\Debug\Restaurante - Ejercicio 11.g.resources
+D:\PC\Descargas\Ejercicio PGE\Restaurante - Ejercicio 11\obj\Debug\Restaurante___Ejercicio_11.Properties.Resources.resources
+D:\PC\Descargas\Ejercicio PGE\Restaurante - Ejercicio 11\obj\Debug\Restaurante - Ejercicio 11.csproj.GenerateResource.cache
+D:\PC\Descargas\Ejercicio PGE\Restaurante - Ejercicio 11\obj\Debug\Restaurante - Ejercicio 11.csproj.CoreCompileInputs.cache
+D:\PC\Descargas\Ejercicio PGE\Restaurante - Ejercicio 11\obj\Debug\Restaurante - Ejercicio 11.exe
+D:\PC\Descargas\Ejercicio PGE\Restaurante - Ejercicio 11\obj\Debug\Restaurante - Ejercicio 11.pdb
+D:\PC\Descargas\Ejercicio PGE\Restaurante - Ejercicio 11\obj\Debug\MapWindow.baml
+D:\PC\Descargas\Ejercicio PGE\Restaurante - Ejercicio 11\obj\Debug\MapWindow.g.cs
